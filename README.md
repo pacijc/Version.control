@@ -14,6 +14,8 @@ Run the code using Jupyter Lab, then enter the information required when prompte
 
 ### License:
 See separate file regarding license 
+### Code of Conduct:
+See separate file regarding code of conduct
 ### Credits:
 This code was developed by Dominic Romano, Joe Paci, and Jackson Hraber
 > Written with [StackEdit](https://stackedit.io/).
